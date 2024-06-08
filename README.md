@@ -32,7 +32,7 @@ The datasets contain sales information for various athletic products from 2020 a
 
 * Filtering Specific Data
 
-To gain insights into specific categories, I filtered the data for women's athletic footwear sales. This allowed me to focus on analyzing trends within this particular product category.
+    - To gain insights into specific categories, I filtered the data for women's athletic footwear sales. This allowed me to focus on analyzing trends within this particular product category.
 
 * Creating Pivot Tables
     - Created pivot tables to show the number of products sold and total sales for each retailer, region, state, and city.
